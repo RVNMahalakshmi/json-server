@@ -1,0 +1,58 @@
+{
+  "claims": [
+    {
+      "id": 1861,
+      "EmployeeName": "Mahalakshmi RVN",
+      "ClaimNumber": "C0A 2Z5",
+      "ClaimType": "N0M 1E67",
+      "ClaimStartDate": "2020-09-02",
+      "ClaimEdDate": "2020-09-27",
+      "ClaimProgram": "ClaimProgram"
+    },
+    {
+      "id": 1683,
+      "EmployeeName": "Gail",
+      "ClaimNumber": "M2C 7M1",
+      "ClaimType": "R4Z 9S3",
+      "ClaimStartDate": "2020-08-13",
+      "ClaimEdDate": "2020-08-30",
+      "ClaimProgram": "ClaimProgram"
+    },
+    {
+      "id": 1094,
+      "EmployeeName": "Wendy",
+      "ClaimNumber": "A0I 0E4",
+      "ClaimType": "X6L 0Y4",
+      "ClaimStartDate": "2020-07-28",
+      "ClaimEdDate": "2020-09-07",
+      "ClaimProgram": "ClaimProgram"
+    },
+    {
+      "id": "7000",
+      "EmployeeName": "Saikumar",
+      "ClaimNumber": "C002",
+      "ClaimType": "Registered",
+      "ClaimStartDate": "2020-08-14",
+      "ClaimEdDate": "2020-08-31",
+      "ClaimProgram": "C Program"
+    },
+    {
+      "id": "7890",
+      "EmployeeName": "Mahalakshmi",
+      "ClaimNumber": "C2001",
+      "ClaimType": "Submitted",
+      "ClaimStartDate": "2020-08-01",
+      "ClaimEdDate": "2020-08-30",
+      "ClaimProgram": "Immediate"
+    },
+    {
+      "id": "Renuka",
+      "EmployeeName": "60000",
+      "ClaimNumber": "C0003",
+      "ClaimType": "Requested",
+      "ClaimStartDate": "2020-08-07",
+      "ClaimEdDate": "2020-08-31",
+      "ClaimProgram": "Immediate"
+    }
+  ]
+}

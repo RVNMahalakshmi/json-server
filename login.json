@@ -1,0 +1,20 @@
+{
+    "credentials": [
+        {
+            "UserName": "Mahalakshmi",
+            "Password": "1234"
+        },
+        {
+            "UserName": "Sai",
+            "Password": "2345"
+        },
+		{
+            "UserName": "Sita",
+            "Password": "1234"
+        },
+		{
+            "UserName": "Renu",
+            "Password": "1234"
+        }
+    ]
+}
